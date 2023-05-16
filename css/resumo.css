@@ -1,0 +1,22 @@
+.resumo{
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    padding: 8rem;
+    background-color: #dddddd;
+}
+
+.paragrafoResumo {
+    margin-top: 2rem;
+    font-size: 1.3rem;
+    font-weight: 350;
+    line-height: 26px;
+}
+
+
+.minhaFoto{
+    width: 368px;
+    height: 368px;
+    border-radius: 100%;
+}
