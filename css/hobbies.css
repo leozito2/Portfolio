@@ -1,0 +1,25 @@
+.hobbiesTitulo {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 4rem;
+}
+
+.hobbiesLista{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hobbieIcon{
+    display: flex;
+    width: 5rem;
+}
+
+.hobbieItem{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}

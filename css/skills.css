@@ -1,0 +1,31 @@
+.skillsHobbies{
+    background-color: #dddddd;
+    padding: 2rem;
+}
+
+.skillsTitulo{
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4rem;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+.skillsLista{
+    display: flex;
+    justify-content: space-around;
+}
+
+.skillIcons{
+    display: flex;
+    width: 5rem;
+
+}
+
+.itemSkills {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
