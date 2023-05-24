@@ -1,0 +1,38 @@
+.formacao{
+    background-color: #dddddd;
+    padding: 1rem;
+}
+
+.formacaoTitulo{
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 4rem;
+}
+
+.formacaoLista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aluraLogo{
+    width: 20rem;
+    background-color: #ccc4c4;
+    border-radius: 1rem;
+    border: 0.3rem solid rgb(0, 0, 0); 
+    padding: 1rem;
+
+}
+
+.formacaoNome, .dataFormacao{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 1rem;
+    
+
+}
